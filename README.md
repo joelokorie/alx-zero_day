@@ -1,1 +1,1 @@
-My ReadMe inside 0x03-git
+ALX thank you for this opportunity. I am now becoming a software engineer
